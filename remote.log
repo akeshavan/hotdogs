@@ -1,1 +1,1 @@
-d84f38b1-5c46-4e75-b4c0-ae4a914132f5 bucket=pubs3-d84f38b1-5c46-4e75-b4c0-ae4a914132f5 datacenter=US encryption=none host=s3.amazonaws.com name=pubs3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1533677291.160819s
+d84f38b1-5c46-4e75-b4c0-ae4a914132f5 bucket=pubs3-d84f38b1-5c46-4e75-b4c0-ae4a914132f5 datacenter=US encryption=none host=s3.amazonaws.com name=pubs3 port=80 public=yes publicurl=https://s3.amazonaws.com/pubs3-d84f38b1-5c46-4e75-b4c0-ae4a914132f5/ storageclass=STANDARD type=S3 timestamp=1533677447.970159s
